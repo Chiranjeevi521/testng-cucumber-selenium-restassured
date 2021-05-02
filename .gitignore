@@ -1,0 +1,12 @@
+.settings
+.classpath
+.idea
+target/
+test-output/
+.DS_Store
+TestngCucumber.iml
+screenshots/
+._.DS_Store
+.project
+TestngCucumberBoilerPlate.iml
+.vscode
